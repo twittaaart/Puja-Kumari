@@ -14,7 +14,7 @@
 
 ## 🛠️ Projects
 
-### 🚀 AI-Powered Resume Analyzer(https://github.com/twittaaart) *(In Progress)*
+### 🚀 AI-Powered Resume Analyzer *(In Progress)*
 > Python + OpenAI + Streamlit  
 Builds a smart resume analyzer using OpenAI API that gives feedback based on job descriptions and ATS compatibility.
 
